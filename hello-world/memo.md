@@ -102,3 +102,7 @@ output
 一行目 I have a pen.
 二行目 I have an apple.
 ```
+
+## 参考記事
+
+- [M - 1.12.文字列と文字](https://atcoder.jp/contests/apg4b/tasks/APG4b_m)
